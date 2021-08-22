@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// A singlton class accessable throughout the app
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
